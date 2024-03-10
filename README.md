@@ -7,5 +7,7 @@ Functional Interfaces : https://chat.openai.com/share/b4aeaad9-fe79-4042-be0a-18
 
 Interface questions : https://www.perplexity.ai/search/Interface-default-and-wKAN0dJ7S.O75joY1zIMQA
 
+Java 9 Features : https://www.tutorialspoint.com/java9/java9_interview_questions.htm
+
 
 
