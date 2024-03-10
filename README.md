@@ -5,5 +5,7 @@ Lambda Expressions : https://www.perplexity.ai/search/Lambda-expressions-java-OY
 
 Functional Interfaces : https://chat.openai.com/share/b4aeaad9-fe79-4042-be0a-18ee47ab4735
 
-Interface questions : 
+Interface questions : https://www.perplexity.ai/search/Interface-default-and-wKAN0dJ7S.O75joY1zIMQA
+
+
 
