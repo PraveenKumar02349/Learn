@@ -13,3 +13,32 @@ Java 9 Features : https://www.tutorialspoint.com/java9/java9_interview_questions
 Stream : https://www.perplexity.ai/search/Advanced-Java-Stream-TDywTv1XQDaKLDKeaV.1JQ
 https://chat.openai.com/c/90fc7c2c-8cb5-4e92-a388-49cd616da136
 
+Spring Boot Patterns
+
+MultiThreading
+
+Transactional
+
+Github
+
+Java Collections
+
+Spring Boot Lombok
+
+Microservices
+
+Loggers/Elastic Search
+
+Project Analysis
+
+Servers
+
+Jenkins
+Wildfly
+Tomcat
+Docker
+Kubernates
+
+Spring Security
+
+React
