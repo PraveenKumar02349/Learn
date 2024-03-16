@@ -43,10 +43,12 @@ Kubernates
 Spring Boot Startup and different annotations
 Spring Security
 Spring Batch/Cloud
-Junit Test Cases
+Junit Test Cases with Sonarqube, Sonarlint
 Java Memory related and basic DSA
 SQL
 MongoDB
+Redis/Spring boot cache
+RabbitMq
 
 React
 Team Lead
