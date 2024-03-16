@@ -27,7 +27,7 @@ Spring Boot Lombok
 
 Microservices
 
-Loggers/Elastic Search
+Loggers/Elastic Search - Slf4j
 
 Project Analysis
 
