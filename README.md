@@ -36,9 +36,16 @@ Servers
 Jenkins
 Wildfly
 Tomcat
+AWS
 Docker
 Kubernates
 
 Spring Security
+Spring Batch/Cloud
+Junit Test Cases
+Java Memory related and basic DSA
+SQL
+MongoDB
 
 React
+
