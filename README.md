@@ -10,5 +10,6 @@ Interface questions : https://www.perplexity.ai/search/Interface-default-and-wKA
 Java 9 Features : https://www.tutorialspoint.com/java9/java9_interview_questions.htm
                   https://chat.openai.com/share/8c8b4ecb-c9c4-4b21-8f51-af63dc666b71 ( Stream Java 9 Improvements )
 
-
+Stream : https://www.perplexity.ai/search/Advanced-Java-Stream-TDywTv1XQDaKLDKeaV.1JQ
+https://chat.openai.com/c/90fc7c2c-8cb5-4e92-a388-49cd616da136
 
