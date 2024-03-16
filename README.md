@@ -40,6 +40,7 @@ AWS
 Docker
 Kubernates
 
+Spring Boot Startup and different annotations
 Spring Security
 Spring Batch/Cloud
 Junit Test Cases
