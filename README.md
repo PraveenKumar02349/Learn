@@ -19,7 +19,7 @@ MultiThreading : https://chat.openai.com/c/d49286eb-ab1d-4e98-84b5-0027d84d85f8
 
 Transactional : https://chat.openai.com/c/780ec150-2504-4b37-b2e7-616890d77169
 
-Github
+Github https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
 
 Java Collections
 
