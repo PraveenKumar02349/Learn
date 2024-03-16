@@ -48,4 +48,5 @@ SQL
 MongoDB
 
 React
+Team Lead
 
