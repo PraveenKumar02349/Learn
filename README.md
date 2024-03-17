@@ -19,9 +19,9 @@ MultiThreading : https://chat.openai.com/c/d49286eb-ab1d-4e98-84b5-0027d84d85f8
 
 Transactional : https://chat.openai.com/c/780ec150-2504-4b37-b2e7-616890d77169
 
-Github https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
+Github : https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
 
-Java Collections
+Java Collections : https://chat.openai.com/c/4fcfd506-d3b1-46a1-80a9-0110c554d474
 
 Spring Boot Lombok
 
