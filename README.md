@@ -41,16 +41,26 @@ Docker
 Kubernates
 
 Spring Boot Startup and different annotations
+
 Spring Security
+
 Spring Batch/Cloud
+
 Junit Test Cases with Sonarqube, Sonarlint
+
 Java Memory related and basic DSA
+
 SQL
+
 MongoDB
+
 Redis/Spring boot cache
+
 Apache Kafka
+
 RabbitMq
 
 React
+
 Team Lead
 
