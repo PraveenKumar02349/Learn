@@ -70,5 +70,6 @@ Service Discovery
 Config Server
 Circuit Breaker using Resilience4j / Hystrix / Sentinel
 Actuator
-grafana
+
+Observability - zipkin/grafana
 
