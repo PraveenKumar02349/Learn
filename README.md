@@ -37,6 +37,7 @@ Jenkins
 Wildfly
 Tomcat
 AWS
+LoadBalancer
 Docker
 Kubernates
 
