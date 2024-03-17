@@ -36,7 +36,7 @@ Servers
 Jenkins
 Wildfly
 Tomcat
-AWS
+AWS Lamda / API gateway
 LoadBalancer
 Docker
 Kubernates
@@ -64,4 +64,11 @@ RabbitMq
 React
 
 Team Lead
+
+MicroServices
+Service Discovery
+Config Server
+Circuit Breaker using Resilience4j / Hystrix / Sentinel
+Actuator
+grafana
 
