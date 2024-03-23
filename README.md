@@ -28,7 +28,7 @@ Spring Boot Lombok :https://chat.openai.com/c/56625478-e0e0-4c05-b0d8-2dda51f83a
 
 Microservices : https://www.turing.com/interview-questions/microservices
 
-Loggers/Elastic Search - Slf4j
+Loggers/Elastic Search - Slf4j : https://www.baeldung.com/spring-boot-logging
 
 Project Analysis
 
