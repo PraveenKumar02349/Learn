@@ -12,6 +12,7 @@ Java 9 Features : https://www.tutorialspoint.com/java9/java9_interview_questions
 
 Stream : https://www.perplexity.ai/search/Advanced-Java-Stream-TDywTv1XQDaKLDKeaV.1JQ
 https://chat.openai.com/c/90fc7c2c-8cb5-4e92-a388-49cd616da136
+https://mkyong.com/java8/java-8-collectors-groupingby-and-mapping-example/
 
 Spring Boot Patterns : https://chat.openai.com/c/c1d4834c-9ab6-4ce4-a62c-858e7df7fc9f
 
