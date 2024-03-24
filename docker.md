@@ -34,4 +34,5 @@ Docker Image - using Dockerfile
 
 docker build -t name:version . ---( . added to define location of dockerfile )
 
+docker rmi imagename ( to remove image )
 
