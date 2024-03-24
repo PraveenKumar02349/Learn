@@ -30,7 +30,7 @@ Docker repository - cpntains versions of single image
 
 Docker Image - using Dockerfile
 
-![image](https://github.com/PraveenKumar02349/Learn/assets/83269149/88fca770-8bc6-4a9f-b46c-a05c8ea23e79)
+![image](https://github.com/PraveenKumar02349/Learn/assets/83269149/4f608485-9738-4713-ab8f-5ed6609df79b)
 
 docker build -t name:version . ---( . added to define location of dockerfile )
 
