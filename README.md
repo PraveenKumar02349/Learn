@@ -36,6 +36,7 @@ Servers
 
 Jenkins
 Wildfly
+JWT
 Tomcat
 AWS Lamda / API gateway
 LoadBalancer
@@ -44,7 +45,7 @@ Kubernates
 
 Spring Boot Startup and different annotations
 
-Spring Security
+Spring Security : https://flexiple.com/spring-security/interview-questions, https://chat.openai.com/c/75cc641e-d890-4764-a67a-fe98e5a45184
 
 Spring Batch/Cloud
 
@@ -62,7 +63,7 @@ Apache Kafka
 
 RabbitMq
 
-React
+React, HTML, CSS , Javascript
 
 Team Lead
 
