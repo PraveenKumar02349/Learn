@@ -60,7 +60,7 @@ MongoDB
 Redis/Spring boot cache
 
 Apache Kafka
-
+https://chat.openai.com/c/00c3c003-4709-4b96-8406-0e21bfc4f8b8
 RabbitMq
 
 React, HTML, CSS , Javascript
