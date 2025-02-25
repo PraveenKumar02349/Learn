@@ -14,7 +14,7 @@ docker run name:version
 
 docker ps - to list running docker images
 
-To Eun by adding Name in docker image
+To Run by adding Name in docker image
 docker run --name praveen-docker postgres
 
 command prompt can be closed , still docker will run using
@@ -45,3 +45,7 @@ using Google Jib
 ![image](https://github.com/user-attachments/assets/30df2869-a1f7-4961-b58b-595b7282c033)
 
 Google Jib can upload images to AWS, DockerHub too. check the commands in their github site.
+
+
+![image](https://github.com/user-attachments/assets/43d86874-a3dd-4203-93d7-ccac2b7d25a7)
+
