@@ -36,3 +36,12 @@ docker build -t name:version . ---( . added to define location of dockerfile )
 
 docker rmi imagename ( to remove image )
 
+using BuildPacks 
+
+![image](https://github.com/user-attachments/assets/166a05cb-6d7f-4d44-b47c-df185b683a94)
+
+using Google Jib
+
+![image](https://github.com/user-attachments/assets/30df2869-a1f7-4961-b58b-595b7282c033)
+
+Google Jib can upload images to AWS, DockerHub too. check the commands in their github site.
