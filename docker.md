@@ -49,3 +49,6 @@ Google Jib can upload images to AWS, DockerHub too. check the commands in their 
 
 ![image](https://github.com/user-attachments/assets/43d86874-a3dd-4203-93d7-ccac2b7d25a7)
 
+
+docker run -p 3306:3306 --name accountsdb -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=accountsdb -d mysql
+
