@@ -71,6 +71,9 @@ MicroServices
 Service Discovery
 Config Server
 Circuit Breaker using Resilience4j / Hystrix / Sentinel
+
+![image](https://github.com/user-attachments/assets/37f0221d-13f9-463f-a269-e9b647e5897f)
+
 Actuator
 
 Observability - zipkin/grafana
